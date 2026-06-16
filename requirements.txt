@@ -1,0 +1,8 @@
+# Task 3 - Basic Chatbot
+# No external libraries required.
+# This project uses only native Python built-in logic.
+
+# Built-in modules used:
+# - None (Pure Python logic and string manipulation)
+
+# Python version recommended: 3.7+
